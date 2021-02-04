@@ -1,4 +1,4 @@
-### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=profitjean&show_icons=false&theme=tokyonight)
+### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=profitjean&hide=stars&show_icons=false&theme=tokyonight)
 ---
 🤔 Let me introduce myself
 - 이윤진
