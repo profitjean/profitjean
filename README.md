@@ -1,5 +1,20 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=profitjean&show_icons=false&theme=tokyonight)
+### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=profitjean&show_icons=false&theme=tokyonight)
+---
+🤔 Let me introduce myself
+- 이윤진
+- Yoonjin Lee
+- Seoul Women's University (Information Secuirity & Software Convergence)
+
+📚 I've learned ...
+- SOPT 26th iOS (2020.04 - 2020.07)
+- SOPT 27th iOS (2020.09 - 2021.01)
+
+🌱 I’m currently learning ...
+- Swift
+- RxSwift
+- SwiftUI
+- ML/AI
+
 
 <!--
 **profitjean/profitjean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
