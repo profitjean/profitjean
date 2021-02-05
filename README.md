@@ -1,11 +1,7 @@
-### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=profitjean&hide=stars&show_icons=false&theme=tokyonight)
----
 🤔 Let me introduce myself
 - 이윤진
 - Yoonjin Lee
 - Seoul Women's University (Information Secuirity & Software Convergence)
-
-📚 I've learned ...
 - SOPT 26th iOS (2020.04 - 2020.07)
 - SOPT 27th iOS (2020.09 - 2021.01)
 
@@ -14,6 +10,8 @@
 - RxSwift
 - SwiftUI
 - ML/AI
+---
+# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=profitjean&hide=stars&show_icons=false&theme=tokyonight)
 
 
 <!--
