@@ -11,7 +11,7 @@
 - SwiftUI
 - ML/AI
 ---
-# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=profitjean&hide=stars&show_icons=false&theme=tokyonight)
+# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=profitjean&hide=stars&show_icons=false&theme=dark)
 
 
 <!--
