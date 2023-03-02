@@ -19,7 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nayayoonjin)](https://solved.ac/백준아이디/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nayayoonjin)](https://solved.ac/nayayoonjin/)
 
 <!--
 **profitjean/profitjean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
